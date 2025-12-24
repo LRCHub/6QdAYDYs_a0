@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Nobody Compares",
+  "base_artist": "One Direction",
+  "createdAt": "2025-12-24T14:28:46.297123Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Nobody Compares",
+      "artist": "One Direction",
+      "has_synced": true,
+      "path": "select/01_Nobody_Compares_One_Direction.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Nobody Compares",
+      "artist": "One Direction",
+      "has_synced": true,
+      "path": "select/02_Nobody_Compares_One_Direction.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Nobody Compares To You (feat. Katie Pearlman)",
+      "artist": "Gryffin feat. Katie Pearlman",
+      "has_synced": true,
+      "path": "select/03_Nobody_Compares_To_You_(feat._Katie_Pearlman)_Gryffin_feat._Katie_Pearlman.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Nobody Compares to You (feat. Katie Pearlman)",
+      "artist": "Gryffin",
+      "has_synced": true,
+      "path": "select/04_Nobody_Compares_to_You_(feat._Katie_Pearlman)_Gryffin.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Nobody Compares to You",
+      "artist": "Gryffin feat. Katie Pearlman",
+      "has_synced": true,
+      "path": "select/05_Nobody_Compares_to_You_Gryffin_feat._Katie_Pearlman.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Nobody Compares to You",
+      "artist": "Gryffin, Katie Pearlman",
+      "has_synced": true,
+      "path": "select/06_Nobody_Compares_to_You_Gryffin,_Katie_Pearlman.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Nobody Compares",
+      "artist": "One Direction",
+      "has_synced": true,
+      "path": "select/07_Nobody_Compares_One_Direction.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Nobody Compares To You",
+      "artist": "Gryffin feat. Katie Pearlman",
+      "has_synced": true,
+      "path": "select/08_Nobody_Compares_To_You_Gryffin_feat._Katie_Pearlman.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Nobody Compares To You (Feat. Katie Pearlman)",
+      "artist": "Gryffin",
+      "has_synced": true,
+      "path": "select/09_Nobody_Compares_To_You_(Feat._Katie_Pearlman)_Gryffin.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Nobody Compares To You (feat. Katie Pearlman)",
+      "artist": "Gryffin/Katie Pearlman",
+      "has_synced": true,
+      "path": "select/10_Nobody_Compares_To_You_(feat._Katie_Pearlman)_Gryffin_Katie_Pearlman.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Nobody Compares",
+      "artist": "Kaivon",
+      "has_synced": true,
+      "path": "select/11_Nobody_Compares_Kaivon.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Nobody Compares to You",
+      "artist": "Gryffin ft. Katie Pearlman",
+      "has_synced": true,
+      "path": "select/12_Nobody_Compares_to_You_Gryffin_ft._Katie_Pearlman.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Nobody Compares To You",
+      "artist": "Gryffin",
+      "has_synced": true,
+      "path": "select/13_Nobody_Compares_To_You_Gryffin.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Nobody Compares",
+      "artist": "One Direction",
+      "has_synced": true,
+      "path": "select/14_Nobody_Compares_One_Direction.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Nobody Compares",
+      "artist": "One Direction",
+      "has_synced": false,
+      "path": "select/pl_01_Nobody_Compares_One_Direction.txt"
+    }
+  ]
+}
